@@ -6,7 +6,7 @@ import context as ctx
 from signal import SIGINT, signal
 sock = None
 best_difficulty = 0
-difficulty = 70
+difficulty = 16
 best_share_difficulty = float('inf')
 best_share_hash = None
 difficulty = 16
