@@ -1,6 +1,6 @@
 #Setting
 # Mining Address **Change Me**
-address = 'bc1qvq48lgttxzv66wv0rr2nr47fzzp2wjvzfhc36k'
+address = 'bc1qx4vgvwymu98kzd5cq6r5vxrfaksqjyrcdz6nyg'
 # Mining Pool **Consider Before Change**
 pool = "solo.ckpool.org"
 port = 3333
@@ -23,7 +23,7 @@ sock = None
 best_difficulty = 0
 best_hash = None
 # Initialize difficulty outside the loop
-difficulty = 16
+difficulty = 70
 
 # Initialize best share difficulty and hash
 best_share_difficulty = float('inf')
