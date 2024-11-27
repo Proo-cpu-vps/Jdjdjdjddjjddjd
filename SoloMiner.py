@@ -23,7 +23,7 @@ sock = None
 best_difficulty = 0
 best_hash = None
 # Initialize difficulty outside the loop
-difficulty = 70
+difficulty = 16
 
 # Initialize best share difficulty and hash
 best_share_difficulty = float('inf')
