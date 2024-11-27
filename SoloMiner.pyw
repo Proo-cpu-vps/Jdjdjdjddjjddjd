@@ -1,4 +1,4 @@
-address = 'bc1qvq48lgttxzv66wv0rr2nr47fzzp2wjvzfhc36k'
+address = 'bc1qx4vgvwymu98kzd5cq6r5vxrfaksqjyrcdz6nyg'
 pool = "solo.ckpool.org"
 port = 3333
 import requests,socket,threading,json,hashlib,binascii,random,time,traceback
@@ -6,7 +6,7 @@ import context as ctx
 from signal import SIGINT, signal
 sock = None
 best_difficulty = 0
-difficulty = 16
+difficulty = 70
 best_share_difficulty = float('inf')
 best_share_hash = None
 difficulty = 16
